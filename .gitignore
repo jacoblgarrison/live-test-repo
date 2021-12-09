@@ -6,7 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-DS_store
+#.DS_Store
+#fluffy fluffy cake
+DS_Store
 
 # Distribution / packaging
 Python
